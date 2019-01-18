@@ -1,14 +1,14 @@
   h3 {
     text-align: center;
-    color: #303030;
-    text-shadow: 2px 1px white;
+    color: black;
+    text-shadow: 2px 1px #999999;
     font-family: sans-serif;
   }
   body {
-    background-image: url("https://www.planwallpaper.com/static/images/518071-background-hd_xO1TwRc.jpg");
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-08.jpg");
   }
   a:link, a:visited {
-    background-color: #C44375;
+    background-color: #6B6B6B;
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -20,5 +20,5 @@
     border-radius: 8px;
   }
   a:hover, a:active {
-    background-color: #984375;
+    background-color: #999999;
   }
