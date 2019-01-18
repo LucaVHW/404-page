@@ -17,6 +17,9 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    position: absolute;
+    float: left;
+    margin-left: 45%;
   }
   a:hover, a:active {
     background-color: #984375;
