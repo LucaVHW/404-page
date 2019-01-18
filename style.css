@@ -20,6 +20,7 @@
     position: absolute;
     float: left;
     margin-left: 45%;
+    border-radius: 8px;
   }
   a:hover, a:active {
     background-color: #984375;
