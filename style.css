@@ -1,0 +1,23 @@
+  h1 {
+    text-align: center;
+    margin-top: 200px;
+    text-shadow: 3px 2px white;
+  }
+  h3 {
+    text-align: center;
+    text-shadow: 2px 1px white;
+  }
+  body {
+    background-image: url("https://www.planwallpaper.com/static/images/518071-background-hd_xO1TwRc.jpg");
+  }
+  a:link, a:visited {
+    background-color: #C44375;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:hover, a:active {
+    background-color: #984375;
+  }
